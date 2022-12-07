@@ -32,6 +32,10 @@
     Summary: Robotic fabrication package for the COMPAS Framework
     ...
 
+#### Install COMPAS RRC
+
+    (env_name) conda install compas_rrc
+
 #### Install on Rhino
 
     (env_name) python -m compas_rhino.install -v 7.0
