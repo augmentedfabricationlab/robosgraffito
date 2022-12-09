@@ -13,7 +13,7 @@
   * `EditorConfig for VS Code` (optional)
   * `Docker` (official extension, optional)
 
-## Set-up and Installation
+## Getting Started
 
 ### 1. Setting up the Anaconda environment with COMPAS
 
@@ -45,7 +45,7 @@
 
     (env_name) conda install git
 
-#### UR Fabrication Control
+#### ABB Fabrication Control
     
     (env_name) python -m pip install git+https://github.com/augmentedfabricationlab/abb_fabrication_control@master#egg=abb_fabrication_control
     (env_name) python -m compas_rhino.install -p abb_fabrication_control -v 7.0
