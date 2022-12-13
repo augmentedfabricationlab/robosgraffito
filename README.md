@@ -54,11 +54,4 @@
 
 * Create a workspace directory: C:\Users\YOUR_USERNAME\workspace
 * Open Github Desktop, clone the [robosgraffito](https://github.com/augmentedfabricationlab/robosgraffito) repository into you workspace folder 
-* Install within your env (in editable mode):
-
-```
-(env_name) cd C:\Users\YOUR_USERNAME\workspace
-(env_name) python -m pip install -e robosgraffito
-(env_name) python -m compas_rhino.install -p robosgraffito -v 7.0
-```
 
